@@ -11,7 +11,7 @@ Ghost是一款出色的开源博客平台，小巧，易用，专注于写作，
 ![截图](Screenshot.gif)
 
 ## 在线体验
-[http://page.tobee.me/gsearch/docs/](http://page.tobee.me/gsearch/docs/)
+[http://blog.90.vc/#search](http://blog.90.vc/#search)
 
 ## 使用示例
 [下载](https://github.com/itobee/gsearch/archive/master.zip)最新版的gsearch，将`dist`文件夹下的`libs`和`partials`文件夹复制到当前主题的根目录下（如果遇到同名文件夹，覆盖即可），并在当前主题的`default.hbs`文件中添加如下代码：
@@ -78,14 +78,4 @@ npm install
 // 启动服务
 gulp
 ```
-
-## 更新日志
-### v0.9.0
-* [gsearch v0.9.0](https://github.com/itobee/gsearch/releases/tag/v0.9.0) 发布（2016-12-24）
-
-## Bug反馈
-请移步：[https://github.com/itobee/gsearch/issues](https://github.com/itobee/gsearch/issues)
-
-## 开源协议
-MIT license &copy; [Tobee](http://tobee.me);
 
